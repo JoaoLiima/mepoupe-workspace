@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  mepoupe-api:
+    container_name: api
+    image: node:16.17.0
+    networks:
+      - base_network
+    ports:
+      - 3000:3000
+    command: sh -c 'yarn install && yarn start:dev'
+    working_dir: /app
+    volumes:
+      - ./mepoupe-api:/app
+
+networks:
+  base_network:
