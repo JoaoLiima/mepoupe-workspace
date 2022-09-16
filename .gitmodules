@@ -1,0 +1,3 @@
+[submodule "mepoupe-api"]
+	path = mepoupe-api
+	url = https://github.com/JoaoLiima/mepoupe-api
