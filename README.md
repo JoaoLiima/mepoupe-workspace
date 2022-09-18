@@ -1,23 +1,15 @@
 <p  align="center">
-
-<a  href="https://mepoupe.com/"  target="blank"><img  src="https://mepoupe.com/images/logo.jpg"  width="200"  alt="MePoupe Logo" /></a>
-
+<a  href="https://mepoupe.com/"  target="blank"><img  src="https://mepoupe.com/images/logo.jpg"  alt="MePoupe Logo" /></a>
 </p>
 
 <p  align="center">Teste de desenvolvimento para o <a  href="https://mepoupe.com/"  target="_blank">Me Poupe!</a></p>
 
-<p  align="center">
-
-</p>
-
 ## Funcionalidades
 
-### 1 - Cálculo de média
+>+ ### 1 - Cálculo de média
+Calcula a média de dois números. O resultado é arredondado para 2 casas decimais utilizando o método Half Round Up.
 
-É possível calcular a média de dois números. O resultado é arredondado para 2 casas decimais utilizando o método Half Round Up.
-
-### 2 - Consulta de CEP.
-
+>+ ### 2 - Consulta de CEP.
 Realiza a consulta de endereços através do cep fornecido.
 
 ## Executando o projeto
@@ -56,9 +48,9 @@ Uma vez que a aplicação esteja rodando, é possível acessar a página com a d
 
 ## Tecnologias utilizadas
 
-[NodeJS](https://nodejs.org/en/)
-[NestJS](https://nestjs.com/)
-[TypeScript](https://www.typescriptlang.org/)
-[Axios](https://axios-http.com/ptbr/docs/intro)
-[Jest](https://jestjs.io/)
-[Docker](https://www.docker.com/)
+>+ [NodeJS](https://nodejs.org/en/)
+>+ [NestJS](https://nestjs.com/)
+>+ [TypeScript](https://www.typescriptlang.org/)
+>+ [Axios](https://axios-http.com/ptbr/docs/intro)
+>+ [Jest](https://jestjs.io/)
+>+ [Docker](https://www.docker.com/)
